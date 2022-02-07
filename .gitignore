@@ -1,6 +1,8 @@
 # compiled output
 /dist
 /node_modules
+/prisma/test.db
+/prisma/migrations
 
 # Logs
 logs
